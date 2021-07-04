@@ -1,0 +1,2 @@
+rootProject.name = "GalleryAccess"
+include ':app'
